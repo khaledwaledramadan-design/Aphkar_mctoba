@@ -1,0 +1,135 @@
+#body
+{
+  background-color: antiquewhite;
+}
+#nav
+{
+  justify-content: center;
+}
+
+#naver:hover
+{
+    border-radius: 30px;
+    background-color: green;
+}
+#naver:visited
+{
+    color: black;
+}
+
+#about_the_page
+{
+  display: flex;
+  border: black 5px solid;
+  border-radius: 30px;
+  font-size: large;
+  font-style: italic;
+  text-align: center;
+
+  background-color: black;
+  color: white;
+}
+#Image
+{
+  border: rgb(152, 30, 59) 5px solid;
+  border-radius: 30px;
+  width: 200px;
+  float:right;
+  
+  margin:2px  ;
+}
+#nave_مقال
+{
+  text-align: center;
+  background-color:rgb(68, 203, 203);
+  margin-top:10px ;
+  padding-bottom: 7px;
+  border-radius: 30px;
+}
+#المقال
+{
+  text-align: end;
+  font-size:medium;
+}
+#h2_text
+{
+  display: inline-block;
+  border: 3px rgb(68, 203, 203) solid;
+  margin-left: 1010px;
+  padding: 3px;
+  border-radius: 30px;
+  background-color: rgb(68, 203, 203);
+}
+#h2_t1
+{
+     display: inline-block;
+  border: 3px rgb(68, 203, 203) solid;
+  margin-left: 1075px;
+  padding: 3px;
+  border-radius: 30px;
+  background-color: rgb(68, 203, 203);
+}
+#h2_t3
+{
+  display: inline-block;
+  border: 3px rgb(68, 203, 203) solid;
+  margin-left: 1003px;
+  padding: 3px;
+  border-radius: 30px;
+  background-color: rgb(68, 203, 203);
+}
+
+#h2_text1
+{
+    display: inline-block;
+  border: 3px rgb(68, 203, 203) solid;
+  margin-left: 750px;
+  padding: 3px;
+  border-radius: 30px;
+  background-color: rgb(68, 203, 203);
+}
+#h2_text2
+{
+   display: inline-block;
+  border: 3px rgb(68, 203, 203) solid;
+  margin-left: 880px;
+  padding: 3px;
+  border-radius: 30px;
+  background-color: rgb(68, 203, 203);
+}
+#h2_te1
+{
+ display: inline-block;
+  border: 3px rgb(68, 203, 203) solid;
+  margin-left: 1070px;
+  padding: 3px;
+  border-radius: 30px;
+  background-color: rgb(68, 203, 203);
+}
+#h2_te2
+{
+   display: inline-block;
+  border: 3px rgb(68, 203, 203) solid;
+  margin-left: 1005px;
+  padding: 3px;
+  border-radius: 30px;
+  background-color: rgb(68, 203, 203);
+}
+#h2_te1
+{
+     display: inline-block;
+  border: 3px rgb(68, 203, 203) solid;
+  margin-left: 970px;
+  padding: 3px;
+  border-radius: 30px;
+  background-color: rgb(68, 203, 203);
+}
+#h2_te2
+{
+     display: inline-block;
+  border: 3px rgb(68, 203, 203) solid;
+  margin-left: 712px;
+  padding: 3px;
+  border-radius: 30px;
+  background-color: rgb(68, 203, 203);
+}
