@@ -1,0 +1,27 @@
+    body
+    {font-family:"Tahoma",sans-serif;padding:20px}
+    .container
+    {max-width:700px;background-color: rgb(241, 240, 236);margin:10px auto;padding:20px;border-radius:10px;box-shadow:0 4px 12px rgba(0,0,0,.06)}
+    #navpar
+{
+    background-color: rgb(241, 240, 236);
+    font-size: x-large ;
+}
+    h1
+    {margin:0 0 10px}
+    #word
+    {font-size:30px;letter-spacing:6px;margin:20px 0;text-align:center}
+    .keyboard
+    {display:flex;flex-wrap:wrap;gap:6px;justify-content:center}
+    .keyboard button
+    {padding:8px 12px;border-radius:6px;border:1px solid #ddd;background:#fff;cursor:pointer;font-size:18px}
+    .keyboard button.used
+    {background:#eee;color:#999;border-color:#ccc;cursor:default}
+    .controls
+    {display:flex;gap:8px;justify-content:center;margin-top:12px;flex-wrap:wrap}
+    input#customWord
+    {padding:8px;border-radius:6px;border:1px solid #ccc;width:220px;text-align:right}
+    button#reset,button#addWord
+    {padding:8px 12px;border-radius:6px;border:0;background:#007bff;color:#fff;cursor:pointer}
+    p.info
+    {text-align:center;margin-top:10px}

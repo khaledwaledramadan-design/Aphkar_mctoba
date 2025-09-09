@@ -1,0 +1,22 @@
+body
+{font-family:"Tahoma",sans-serif;padding:20px}
+.container
+    {max-width:720px;margin:12px auto;background:#fff;padding:18px;border-radius:10px;box-shadow:0 6px 18px rgba(0,0,0,.06)}
+ h1
+    {margin:0 0 8px;text-align:center}
+ #word
+    {font-size:30px;letter-spacing:8px;margin:18px 0;text-align:center}
+.keyboard
+    {display:flex;flex-wrap:wrap;gap:6px;justify-content:center}
+.keyboard button
+    {padding:8px 12px;border-radius:6px;border:1px solid #ddd;background:#fff;cursor:pointer;font-size:18px}
+.keyboard button.used
+    {background:#eee;color:#999;border-color:#ccc;cursor:default}
+.controls
+    {display:flex;gap:8px;justify-content:center;margin-top:12px;flex-wrap:wrap}
+input#customWord
+    {padding:8px;border-radius:6px;border:1px solid #ccc;width:240px;text-align:right}
+button#reset,button#addWord
+    {padding:8px 12px;border-radius:6px;border:0;background:#007bff;color:#fff;cursor:pointer}
+p.info
+    {text-align:center;margin-top:10px}

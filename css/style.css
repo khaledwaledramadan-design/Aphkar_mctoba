@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh; 
+    background-image: url("../image/خلفيات-كمبيوتر-عالية-الجودة-10.jpeg");
+    background-size: cover;       
+    background-repeat: no-repeat; 
+    background-position: center;
+    background-attachment: fixed; 
+}
+#navpar
+{
+    background-color: rgb(241, 240, 236);
+    font-size: x-large ;
+}
+a:visited
+{
+    color: brown;
+}
